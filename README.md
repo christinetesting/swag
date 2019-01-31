@@ -4,6 +4,7 @@
 [![GoDoc](https://godoc.org/github.com/go-openapi/swag?status.svg)](http://godoc.org/github.com/go-openapi/swag)
 [![GolangCI](https://golangci.com/badges/github.com/go-openapi/swag.svg)](https://golangci.com)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-openapi/swag)](https://goreportcard.com/report/github.com/go-openapi/swag)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristinetesting%2Fswag.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristinetesting%2Fswag?ref=badge_shield)
 
 Contains a bunch of helper functions for go-openapi and go-swagger projects.
 
@@ -21,3 +22,7 @@ This repo has only few dependencies outside of the standard library:
 
 * JSON utilities depend on github.com/mailru/easyjson
 * YAML utilities depend on gopkg.in/yaml.v2
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchristinetesting%2Fswag.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchristinetesting%2Fswag?ref=badge_large)
